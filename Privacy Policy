@@ -1,1 +1,18 @@
+Handy Flashlight: Privacy policy
 
+This is an open source Android app developed by archemax. 
+This app is available on Google Play.
+
+I assure you that my app does not collect any personal data without your knowledge.
+
+All data is created by the user and is stored on your device. 
+
+Here is the Explanation of permissions. 
+The list of permissions required by the app can be found in the AndroidManifest.xml file:
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+Yours sincerely, archemax.
