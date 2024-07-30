@@ -27,6 +27,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
 import com.arche.handyflashlight.R
@@ -150,7 +151,7 @@ fun MainScreen() {
                     .fillMaxWidth(),
 
                 // REAL UNIT ID
-                adId = "ca-app-pub-4187563943965256/9477715676"
+                adId = stringResource(R.string.myAdId)
 
                   // TEST UNIT ID
                 //adId = "ca-app-pub-3940256099942544/9214589741"
