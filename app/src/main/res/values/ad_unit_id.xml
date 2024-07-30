@@ -2,4 +2,11 @@
 <resources>
 
     <string name="myAdId">ca-app-pub-4187563943965256/9477715676</string>
+
+    <string name="myAdId2">ca-app-pub-4187563943965256/9477715676</string>
+    <string name="myAdId3">ca-app-pub-4187563943965256/9477715676</string>
+    <string name="myAdId4">ca-app-pub-4187563943965256/9477715676</string>
+    <string name="myAdId5">ca-app-pub-4187563943965256/9477715676</string>
+    <string name="myAdId6">ca-app-pub-4187563943965256/9477715676</string>
+    <string name="myAdId7">ca-app-pub-4187563943965256/9477715676</string>
 </resources>
